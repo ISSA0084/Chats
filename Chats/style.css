@@ -1,0 +1,99 @@
+*{  
+    list-style: none;
+    text-decoration: none;
+    
+}
+body{
+    background-color: aliceblue;
+     
+}
+.parent{
+    margin: 0px auto;
+    align-items: center;
+    text-align: center;
+    display: block;
+    padding-top: 65px;
+    border-radius: 10px solid;
+    
+}
+.monimg{
+    height: 250px;
+    border-radius: 35px;
+
+}
+.log{
+    height: 45px;
+    width: 125px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 30px;
+    color: black;
+    font-size: large;
+    display: block;
+    
+}
+ 
+.info{
+    height: 105px;
+    padding-top: 1px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+     
+}
+.input1{
+    display: flex;
+    height: 85px;
+    margin: 10px 48px  12px;
+    margin-bottom: 30px;
+    
+} 
+ 
+.input1, input{
+    border-radius: 40px;
+    height: 30px;
+    width: 95%;
+    margin-left: 4px;
+   
+}
+.input1,img{
+     height: 25px;
+     color: white;
+}
+
+.forget{
+    height: 20px;
+    width: 175px;
+    text-align: center;
+    margin: 0px auto;
+    margin-right: 21px;
+    margin-top: -13px;
+}
+
+.phrase{
+    color: aliceblue;
+    background-color: rgb(50, 76, 205);
+    width: 100%;
+    height: 35px;
+    margin-top: -10px;
+    border-radius: 10px;
+}
+.phrase, h2 a{
+    color: aliceblue;
+}
+.creercompt{
+    width: 220px;
+    height: 15px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.tiret{
+    background-color: rgba(17, 14, 14, 0.866);
+    height: 10px;
+    width: 115px;
+    border-radius: 9px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 20px;
+}
